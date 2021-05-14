@@ -42,4 +42,9 @@ class DemoApplicationTests {
 		timeTableDao.insert(timeTable);
 	}
 
+	@Test
+	void asd(){
+		System.out.println("1234");
+	}
+
 }
